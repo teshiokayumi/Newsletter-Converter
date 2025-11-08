@@ -1,0 +1,5 @@
+{
+  "name": "多言語 学級通信コンバーター (Multilingual Class Newsletter Converter)",
+  "description": "A web application for Japanese school staff to translate 'Gakkyu Tsushin' (class newsletters) from Japanese into various languages for non-Japanese-speaking parents, supporting text, image (OCR), and PDF inputs.",
+  "requestFramePermissions": []
+}
